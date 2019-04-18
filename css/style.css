@@ -1,0 +1,140 @@
+#quit{
+	font-family: 'Caveat', cursive;
+	font-size: 25.5px;
+	text-align:center;
+	height:89px;
+  width:534px;
+  background: Indigo;
+  padding:3px;
+  color:teal ;
+}
+#tv{
+	background: purple;
+	width:304px;
+	height:15px;
+	font-size: 19px;
+	text-align:center;
+	font-family: 'Reenie Beanie', cursive;
+	padding-bottom: 13px;
+  padding-right: 10px;
+  padding-left: 3px;
+  padding-top: 1px;
+	margin-top: 3px;
+  color:teal;
+  margin-left: 1px;
+ 
+}
+#travel{
+  clear:both;
+	background: indigo;
+	width:454px;
+	height: 34px;
+	font-size: 25px;
+	text-align:center;
+	font-family: 'Caveat', cursive;
+	float:left;
+	padding:3px;
+	color:teal;
+}
+
+#simple{
+  clear:both;
+	background:Indigo;
+	width:534px;
+	height:54px;
+	font-size: 20px;
+	text-align:center;
+	font-family: 'Fondamento', cursive;
+	padding:03px;
+	color:teal ;
+  float:left;
+}
+#love{
+	background:purple;
+	width:534px;
+	height:54px;
+	font-size: 15px;
+	text-align:left;
+	font-family: 'Fondamento', cursive;
+	padding:3px;
+	color:teal;  
+}
+#united{
+	clear:both;
+	background:teal;
+	width:454px;
+	height:59px;
+	font-size: 25px;
+	text-align:center;
+	font-family: 'Reenie Beanie', cursive;
+	padding:3px;
+	float:top;
+	color: purple;
+}
+
+#seize{
+	clear:both;
+	background:purple;
+	width:134px;
+	height:134px;
+	font-size: 25px;
+	text-align:center;
+	font-family: 'Caveat', cursive;
+	padding:3px;
+	float:left;
+	color: teal;
+}
+#creating{
+	background:teal;
+	width:314px;
+	height:134px;
+	font-size: 27px;
+	text-align:center;
+	font-family: 'Caveat', cursive;
+	padding:3px;
+	float:left;
+	color: indigo;
+}
+#short{
+  clear:both;
+	font-family: 'Fondamento', cursive;
+	font-size: 25px;
+	text-align:center;
+  width:454px;
+	height:154px;
+  background:indigo;
+	padding:3px;
+  color:teal;
+
+}
+.half-width{
+	width:50%;
+}
+.emphasise{
+	font-weight:bold; 
+	text-decoration:underline; 
+}
+
+.uppercase{
+    text-transform:uppercase;
+}
+#leftcolumn{
+    clear:both;
+    width=460px;
+    float:left;
+}
+#rightcolumn{
+  width=140px;
+  float:left;
+}
+#passion{
+  clear:both;
+	background:purple;
+	width:74px;
+	height:399px;
+	font-size: 25px;
+	text-align:center;
+	font-family: 'Reenie Beanie', cursive;
+	padding:3px;
+	color:teal ;
+}
